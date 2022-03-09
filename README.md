@@ -1,16 +1,12 @@
-- 👋 Hi, I’m @loudy-art a multidisciplinary artist dedicated to movement, rythm and software. I will always say, that i'm led by curiosity, at first, i don't do any of my main activities because they can give me a job, money or status, i do them because i want to really understand what's behind them. If we take coding for example, i started because i spent most of my time in front of a computer, i had my first e-mail address when i was 7 years old, and was playing some old windows videogames on my computer too. But as i was growing up, i always had this idea on my mind like "why the hell this button does what it does?" so that's when it all begins, and that's how i discovered coding.
+- 👋 Hi, I’m @loudy-art a self-taught multidisciplinary artist dedicated to movement, rythm and software. I will always say, that i'm led by curiosity, at first, i don't do any of my main activities because they can give me a job, money or status, i do them because i want to really understand what's behind them. If we take coding for example, i started because i spent most of my time in front of a computer, i had my first e-mail address when i was 7 years old, and was playing some old windows videogames on my computer too. But as i was growing up, i always had this idea on my mind like "why the hell this button does what it does?" so that's when it all begins, and that's how i discovered coding.
 
-CODING JOURNEY
-- 🌱 
-- 🌿
-- 🌳
+📖CODING JOURNEY/LEARNING PROCESS📖
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 BEGINING: First i started with basic HTML/CSS, i wanted to understand how websites changed displayed data when pressing a menu on the website. Once i did my first website, i started learning JQuery, had a lot of fun animating elements and queueing animations. But by doing all this, i was not feeling challenged, i really like to work on complex tasks, regardless of the work area. That's why i started learning PHP.
 
-<!---
-loudy-art/loudy-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌿 PHP/SYMFONY: I read the book "PHP Novice to Ninja 5th edition", it helped me a lot but i wanted to accomplish tasks that were not covered such as using AJAX. With PHP i started to work on bigger projects, i remember working on a admin dashboard for an Irish client, and i didn't know anything about frameworks so i basically was doing my own MVC with my files, using ajax, twig and doctrine. It felt pretty clunky and that's where i discovered and learned about frameworks, so i did some couple Symfony courses.
+
+- 🌳 PYTHON/DJANGO: Symfony started to feel pretty clunky for me, that's why i followed a friend advice about switching to Python/Django, i learned Python by reading "Automate boring stuff with Python", i created multiple automation projects with Python, some of them just for fun and some of them were pretty useful for the kind of job that i was doing. Then i started with Django documentation, learning Symfony before was pretty useful because i was already familiarized with many concepts that had to do with frameworks in general. Django was an amazing discovery since it let's me quickly materialize idea from my head to my computer, currently i'm working on 3 projects, 2 of them are personal and the other one it's a huge dashboard with payment processing + real chat for a client. 
+
+- 🕷 WEB PENTESTING: As i was learning PHP, security started to be a concern, that's why i grabbed some Cybrary's pentesting courses, and thanks to that i learned about the OWASP TOP 10 of that year (2019), and learned to test my own code against SQL Injection/XSS/CSRF with different tools such as Burpsuite. Anyways, i didn't fully commit to pen-testing because i really enjoy coding in general. 
+
